@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="82872" started-at="2019-03-29T16:53:31Z" finished-at="2019-03-29T16:54:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="82872" started-at="2019-03-29T16:53:31Z" finished-at="2019-03-29T16:54:54Z">
+      <class name="seleniumTestScenarios.companiesTestPF">
+        <test-method status="PASS" signature="validateCompanyFunctionality()[pri:0, instance:seleniumTestScenarios.companiesTestPF@5442a311]" name="validateCompanyFunctionality" duration-ms="13999" started-at="2019-03-29T22:24:34Z" finished-at="2019-03-29T22:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCompanyFunctionality -->
+      </class> <!-- seleniumTestScenarios.companiesTestPF -->
+      <class name="seleniumTestScenarios.loginTestPF">
+        <test-method status="PASS" signature="validateLoginFunctionality()[pri:0, instance:seleniumTestScenarios.loginTestPF@1bce4f0a]" name="validateLoginFunctionality" duration-ms="62380" started-at="2019-03-29T22:23:31Z" finished-at="2019-03-29T22:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginFunctionality -->
+      </class> <!-- seleniumTestScenarios.loginTestPF -->
+      <class name="seleniumTestScenarios.ImportFileTestPF">
+        <test-method status="PASS" signature="validateImportFunctionality()[pri:0, instance:seleniumTestScenarios.ImportFileTestPF@53b32d7]" name="validateImportFunctionality" duration-ms="6426" started-at="2019-03-29T22:24:48Z" finished-at="2019-03-29T22:24:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateImportFunctionality -->
+      </class> <!-- seleniumTestScenarios.ImportFileTestPF -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
